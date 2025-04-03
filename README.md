@@ -1,7 +1,7 @@
-# Hybrid Bioprocess Modeling with Gaussian Processes and Mass Balances
+# Hybrid Bioprocess Modeling with ANNs and Mass Balances
 
 ## Overview
-This project develops a hybrid modeling approach for bioprocesses, combining data-driven and mechanistic modeling to build a hybrid model with probabilistic modeling.
+This project develops a hybrid modeling approach for bioprocesses, combining data-driven and mechanistic modeling to build a hybrid model with probabilistic modeling using Jax and NumPyro.
 
 ## Folder structure
 
